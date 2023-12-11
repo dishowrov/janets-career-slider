@@ -2,7 +2,6 @@ $('.dis-career-slider').slick({
     centerMode: true,
     centerPadding: '60px',
     slidesToShow: 3,
-    slidesToShowPadding: 0,
     slidesToScroll: 1,
     responsive: [
       {
@@ -25,3 +24,7 @@ $('.dis-career-slider').slick({
       }
     ]
   });
+
+
+
+  
